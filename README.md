@@ -24,7 +24,7 @@ The face recognition project requires two pre-trained models:
 2. **Dlib's Face Recognition Model** (`dlib_face_recognition_resnet_model_v1.dat`)
 
 ### To download the models:
-- Visit Dlib's official site [here]([http://dlib.net/files/](https://github.com/ageitgey/face_recognition_models/tree/master/face_recognition_models/models)) to download the models.
+- Visit Dlib's official site [here]([http://dlib.net/files/](https://github.com/ageitgey/face_recognition_models/tree/master/face_recognition_models/models) to download the models.
 - Place the models in the `models/` folder in the repository.
 
 ### Folder structure:
